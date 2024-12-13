@@ -4,10 +4,11 @@ This paper serves as an in-depth official documentation in the making of the Ilo
 Shareholders. The Iloilo Shareholders library system contains both admin and guest functions,
 with the admin only accessed with a username and password. The admin functions are to add,
 delete, and update books. While the guest functions are to rent, return, and search books.
+
 System Overview:
 
 Struct
-- We implemented a “struct” (also known as Structure in our system.
+- We implemented a “struct” (also known as Structure in our system)
 - According to w3schools, it’s a way to group several related variables into one place.
 - For example, books usually contain a: Title, Author, Publishing Date, and Genre.
 
